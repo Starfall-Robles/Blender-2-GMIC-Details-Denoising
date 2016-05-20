@@ -1,3 +1,3 @@
-# Blender-2-GMIC-Denoising
+## Blender-2-GMIC-Details-Denoising
 
 Files to be added...
