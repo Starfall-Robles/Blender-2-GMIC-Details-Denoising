@@ -4,4 +4,4 @@ The b2gSSD blend file provides access to over 30 G'MIC filters and is targeted t
 
 Regardless of how it is used, some of the filters can still be very time-consuming. If in doubt, test and time a small selection first. At low to moderate settings, the filters are useful in dealing with different types of image channel noise. At the more extreme settings, the filters can be used creatively to add interesting visual effects.
 
-Use and settings are exactly as described on the main Blender-2-G'MIC blender file page.
+Use and settings are exactly as described on the main Blender-2-G'MIC page.
